@@ -1,0 +1,117 @@
+🔹 1. Python Basics
+✅ Introduction to Python
+✅ Installing Python & Setting Up Environment
+✅ Python Syntax, Variables & Data Types
+✅ Operators (Arithmetic, Logical, Bitwise, etc.)
+✅ Type Conversion & Type Casting
+✅ Input and Output (I/O)
+
+🔹 2. Control Flow Statements
+✅ Conditional Statements (if, elif, else)
+✅ Looping (for, while, nested loops)
+✅ Iterators & Generators
+✅ List Comprehensions
+
+🔹 3. Data Structures in Python
+✅ Lists, Tuples, Sets, Dictionaries
+✅ String Manipulation
+✅ Stacks & Queues
+✅ Heap, Linked List, Graphs & Trees (using Python)
+
+🔹 4. Functions & Modules
+✅ Defining and Calling Functions
+✅ Function Arguments (*args, **kwargs, Default & Keyword Arguments)
+✅ Lambda Functions
+✅ Recursion
+✅ Creating and Importing Modules
+
+🔹 5. Object-Oriented Programming (OOP) in Python
+✅ Classes & Objects
+✅ Inheritance (Single, Multiple, Multilevel, Hierarchical, Hybrid)
+✅ Polymorphism
+✅ Encapsulation & Abstraction
+✅ Magic (Dunder) Methods
+✅ Static & Class Methods
+
+🔹 6. File Handling in Python
+✅ Reading and Writing Files (.txt, .csv, .json, .xml)
+✅ Working with File Modes (r, w, a, rb, wb)
+✅ Exception Handling in File Operations
+
+🔹 7. Exception Handling
+✅ Try, Except, Finally
+✅ Custom Exceptions
+✅ Raising Exceptions
+
+🔹 8. Python Libraries & Modules
+✅ OS Module (File System Operations)
+✅ sys Module
+✅ datetime & time Modules
+✅ random Module
+✅ logging Module
+
+🔹 9. Regular Expressions (Regex) in Python
+✅ Pattern Matching
+✅ Searching & Replacing
+✅ Meta Characters & Special Sequences
+
+🔹 10. Database Handling in Python
+✅ SQLite3, MySQL, PostgreSQL with Python
+✅ CRUD Operations (Create, Read, Update, Delete)
+✅ Connecting with Databases using sqlite3 and SQLAlchemy
+
+🔹 11. Multithreading & Multiprocessing
+✅ Threading Module
+✅ Multiprocessing Module
+✅ Concurrency & Parallelism
+
+🔹 12. Web Scraping in Python
+✅ BeautifulSoup
+✅ Scrapy
+✅ Selenium
+
+🔹 13. Networking in Python
+✅ Sockets Programming
+✅ HTTP Requests with requests Module
+✅ Building Simple Client-Server Applications
+
+🔹 14. Data Science & Machine Learning with Python
+✅ NumPy
+✅ Pandas
+✅ Matplotlib & Seaborn (Data Visualization)
+✅ Scikit-Learn for ML Algorithms
+
+🔹 15. Automation with Python
+✅ Automating Emails & Web Scraping
+✅ Automating Excel & PDF Processing
+✅ Automating Browser Tasks with Selenium
+
+🔹 16. Web Development with Python
+✅ Flask & Django Frameworks
+✅ Building APIs with Flask
+✅ Deploying Python Web Apps
+
+🔹 17. Testing in Python
+✅ Unit Testing (unittest, pytest)
+✅ Mocking in Tests
+✅ Performance Testing
+
+🔹 18. Cybersecurity & Ethical Hacking with Python
+✅ Cryptography in Python
+✅ Hashing & Encryption (hashlib, pycryptodome)
+✅ Web Penetration Testing Basics
+
+🔹 19. GUI Development in Python
+✅ Tkinter
+✅ PyQt
+✅ Kivy
+
+🔹 20. DevOps & Deployment
+✅ Dockerizing Python Apps
+✅ Deploying on AWS, Heroku, and Google Cloud
+✅ CI/CD Pipelines (GitHub Actions, Jenkins)
+
+🔹 21. Python for AI & Deep Learning
+✅ TensorFlow & PyTorch Basics
+✅ NLP with NLTK & SpaCy
+✅ Computer Vision with OpenCV
