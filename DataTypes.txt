@@ -1,0 +1,13 @@
+Python has several built-in data types:
+
+1️⃣ Primitive Data Types
+Integer (int) → Whole numbers (10, -5, 1000)
+Float (float) → Decimal numbers (3.14, -2.5, 0.0001)
+String (str) → Text ("Hello", 'Python')
+Boolean (bool) → True/False values (True, False)
+NoneType (None) → Represents "nothing" (None)
+2️⃣ Collection Data Types
+List (list) → Ordered, mutable collection ([1, 2, 3])
+Tuple (tuple) → Ordered, immutable collection ((10, 20, 30))
+Set (set) → Unordered, unique values ({1, 2, 3})
+Dictionary (dict) → Key-value pairs ({"name": "Alice", "age": 25})
