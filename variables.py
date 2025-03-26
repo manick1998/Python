@@ -115,7 +115,8 @@ def update():
     print("Count inside function:", count)
 
 update()
-print("Count outside function:", count)  
+print("Count outside function:", count) 
+ 
 
 
 # 7. Constants in Python
@@ -158,4 +159,7 @@ x = 10
 print(x)  # Output: 10
 del x
 # print(x)  # This will cause an error (NameError: name 'x' is not defined)
+
+
+#today variable  topic done
 
