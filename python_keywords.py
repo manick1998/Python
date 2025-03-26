@@ -212,11 +212,11 @@ print(keyword.kwlist)
 
 👉 Output la 35 keywords list varum!
 
-# 🚀 Conclusion
-# ✅ Python la 35 keywords iruku
-# ✅ Variables ah keywords use panna mudiyadhu
-# ✅ Keywords are case-sensitive!
-# ✅ If-else, loops, functions, OOP keywords ellame mukkiyam!
+🚀 Conclusion
+✅ Python la 35 keywords iruku
+✅ Variables ah keywords use panna mudiyadhu
+✅ Keywords are case-sensitive!
+✅ If-else, loops, functions, OOP keywords ellame mukkiyam!
 
 
 
